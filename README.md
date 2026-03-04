@@ -6,6 +6,7 @@ Para começar, montamos o arduino com um led, 2 jumpers, fizemos um sistema simp
 - Preferencialmente colocar o resistor no negativo e o jumper
 
 - Código primeira aula C++
+```
 #define ledR 8
 #define ledG 12
 
@@ -29,4 +30,4 @@ void loop() {
     }
   }
 }
-
+```
